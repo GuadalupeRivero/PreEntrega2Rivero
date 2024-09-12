@@ -37,6 +37,10 @@ header nav ul li a {
 .main-index {
     text-align: center;
 }
+.carousel-img {
+    width: 600px; 
+    object-fit: contain; 
+  }
 /* Estilos - sección de productos */
 h1 {
     color: #333;
